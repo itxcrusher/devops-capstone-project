@@ -1,3 +1,12 @@
+---
+name: user-story-template
+about: User Story in ZenHub kanban board
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 **As a** [role]  
 **I need** [function]  
 **So that** [benefit]  
